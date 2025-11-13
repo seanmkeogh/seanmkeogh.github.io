@@ -3663,7 +3663,7 @@ input, select, textarea {
 			padding-left: 0.225em;
 			position: absolute;
 			text-align: center;
-			text-transform: none; /*sean uppercase*/
+			text-transform: uppercase; /*sean 'About'*/
 			width: 16em;
 			z-index: 1;
 		}
@@ -3998,4 +3998,5 @@ input, select, textarea {
 		background-color: #1d242a;
 
 	}
+
 
