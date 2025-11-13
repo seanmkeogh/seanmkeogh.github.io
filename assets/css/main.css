@@ -3630,7 +3630,7 @@ input, select, textarea {
 
 		#banner p {
 			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			text-transform: none; /*sean uppercase*/
 		}
 
 			#banner p a {
@@ -3996,4 +3996,5 @@ input, select, textarea {
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+
 	}
